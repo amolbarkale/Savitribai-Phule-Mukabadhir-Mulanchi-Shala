@@ -1,0 +1,14 @@
+PLEASE PLACE YOUR IMAGES IN THIS FOLDER
+
+To ensure the website displays correctly, please save your image files in this folder with the exact names below:
+
+1. teaching_moment.jpg      (Main banner image)
+2. ashatai_pawar.jpg        (President - Lady in Grey/Pink Sari)
+3. shilatai_thakare.jpg     (Secretary - Lady in Yellow Sari)
+4. school_building.jpg      (School building photo)
+5. classroom_activity.jpg   (Gallery photo)
+6. students_planting.jpg    (Gallery photo)
+7. group_photo.jpg          (Gallery photo)
+8. savitribai_portrait.jpg  (Optional portrait)
+
+Once added, refresh the website to see them. Until then, placeholder images will be shown to keep the layout intact.
