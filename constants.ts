@@ -23,7 +23,13 @@ export const IMAGES = {
   activity2: "./assets/group_photo.jpg", 
   
   // Use the portrait of Savitribai Phule
-  savitribai: "./assets/savitribai_portrait.jpg" 
+  savitribai: "./assets/savitribai_portrait.jpg",
+
+  // NEW IMAGES
+  teacherBlackboard: "./assets/teacher_blackboard.jpg",
+  groupListening: "./assets/group_listening.jpg",
+  classroomDesks: "./assets/classroom_desks.jpg",
+  audiologySession: "./assets/audiology_session.jpg"
 };
 
 export const SCHOOL_DETAILS = {

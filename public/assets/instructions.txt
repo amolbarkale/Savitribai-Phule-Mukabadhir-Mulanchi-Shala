@@ -2,13 +2,19 @@ PLEASE PLACE YOUR IMAGES IN THIS FOLDER
 
 To ensure the website displays correctly, please save your image files in this folder with the exact names below:
 
-1. teaching_moment.jpg      (Main banner image)
+1. teaching_moment.jpg      (Main banner image - Teacher with kids on floor)
 2. ashatai_pawar.jpg        (President - Lady in Grey/Pink Sari)
 3. shilatai_thakare.jpg     (Secretary - Lady in Yellow Sari)
-4. school_building.jpg      (School building photo)
-5. classroom_activity.jpg   (Gallery photo)
-6. students_planting.jpg    (Gallery photo)
-7. group_photo.jpg          (Gallery photo)
+4. school_building.jpg      (School building exterior)
+5. classroom_activity.jpg   (Gallery - Circle on floor)
+6. students_planting.jpg    (Gallery - Students planting trees)
+7. group_photo.jpg          (Gallery - Fancy dress/Group)
 8. savitribai_portrait.jpg  (Optional portrait)
 
-Once added, refresh the website to see them. Until then, placeholder images will be shown to keep the layout intact.
+NEW IMAGES TO ADD:
+9.  teacher_blackboard.jpg  (Male teacher writing on blackboard)
+10. group_listening.jpg     (Students at round table with headphones)
+11. classroom_desks.jpg     (Students sitting at desks writing)
+12. audiology_session.jpg   (One-on-one speech therapy session)
+
+Once added, refresh the website to see them. Until then, placeholders will be shown.
